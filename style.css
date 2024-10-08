@@ -488,8 +488,7 @@ footer ul li a {
     }
 
     ::-webkit-scrollbar {
-        width: 5px;
-    }
+    display: none;    }
 
     .info-box input {
         padding: 0.5rem 3rem;
