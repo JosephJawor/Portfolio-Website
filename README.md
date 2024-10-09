@@ -5,4 +5,4 @@ In the About section, I introduce myself with a professional headshot and a brie
 The Experience section highlights my skills and the work I've done specifically pertaining to the creative/design and tech sectors, detailing my journey in Frontend Development and Videography & Photography. I believe sharing my experiences helps others understand my growth and the diverse skill set I've developed over the years that would allow for a more diverse point of view.
 
 In the Projects section, I showcase some of my recent work, like a Calendar web application and a Calculator tool. Each project comes with a description, links to live demos, and access to their GitHub repositories, allowing visitors to see my coding capabilities firsthand.
-This portfolio is ultimately a reflection of my professional journey I'm on as a developer and I hope you enjoy exploring it as much as I enjoyed creating it!
+This portfolio is ultimately a reflection of my creative and professional journey I'm on as a developer and I hope you enjoy exploring it as much as I enjoyed creating it!
