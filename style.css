@@ -75,7 +75,7 @@ li a:hover:before {
     cursor: pointer;
     text-wrap: nowrap;
     transition: 0.3s ease-in-out;
-    background: linear-gradient(to right, rgb(0, 157, 255), rgb(255, 0, 255));
+    background: linear-gradient(to right, rgb(0, 157, 255), rgb(225, 0, 255));
 }
 
 .visit-btn:hover {
